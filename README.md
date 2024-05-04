@@ -3,6 +3,7 @@
 ### Option 1: Short and Direct
 
 **Title:** Simulink Kalman Filter for Respiratory Signal Analysis
+![Simulink Kalman Filter Sinusodial waves]([https://github.com/VimsRocz/Kalman_Filter_Sinusodial-/blob/main/untitled.fig])
 
 **Description:** 
 Simulink implementation of Kalman filters (standard, extended, unscented) for respiratory signal processing, including noise reduction, state estimation, and [insert any specific applications].
