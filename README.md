@@ -3,6 +3,7 @@
 ### Option 1: Short and Direct
 
 **Title:** Simulink Kalman Filter for Respiratory Signal Analysis
+![Simulink Kalman Filter Sinusoidal Waves](./images/Capture.JPG)
 
 ![Simulink Kalman Filter Sinusoidal Waves](./images/untitled.jpg)
 
