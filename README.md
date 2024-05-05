@@ -4,7 +4,8 @@
 
 **Title:** Simulink Kalman Filter for Respiratory Signal Analysis
 
-![Simulink Kalman Filter Sinusoidal Waves](https://github.com/VimsRocz/Kalman_Filter_Sinusoidal-/blob/main/untitled.jpg)
+![Simulink Kalman Filter Sinusoidal Waves](./images/untitled.jpg)
+
 
 
 
